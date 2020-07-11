@@ -63,7 +63,7 @@ function Formui() {
           <Form.Control
             required
             type="email"
-            placeholder="First name"
+            placeholder="email"
          
          onChange={(e)=>setEmail(e.target.value)}
       
