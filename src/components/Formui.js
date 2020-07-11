@@ -76,7 +76,7 @@ function Formui() {
           <Form.Control
             required
             type="text"
-            placeholder="Last name"
+            placeholder="Full name"
             onChange={(e)=>setName(e.target.value)}
           />
           <Form.Control.Feedback>Looks good!</Form.Control.Feedback>
