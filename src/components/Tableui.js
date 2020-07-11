@@ -32,8 +32,8 @@ function Tableui () {
       <th>Name</th>
       <th>Email</th>
       <th>Address</th>
-      <th>Gender</th>
       <th>Status</th>
+      <th>Gender</th>
     </tr>
   </thead>
   {data.map((item,index)=>{
