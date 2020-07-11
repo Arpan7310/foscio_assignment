@@ -17,7 +17,7 @@ db.connect((err)=>{
     }
     else {
         app.listen(4000,()=>{
-            console.log('connected to databse listening on port 4000')
+            console.log('connected to databse')
         });
     }
 })
